@@ -20,4 +20,4 @@ export OF_MAINTAINER="PhatWalrus"
 export FOX_BUILD_TYPE="Stable"
 export OF_FL_PATH1="/tmp/flashlight" # See /init.recovery.qcom.rc for more information
 export OF_FL_PATH2=""
-export FOX_USE_SPECIFIC_MAGISK_ZIP=~/android/ofox/device/samsung/a52q/app-release.apk
+export FOX_USE_SPECIFIC_MAGISK_ZIP=~/fox/device/samsung/a52q/app-release.apk
